@@ -1,0 +1,267 @@
+[
+  {
+    "complaintId": "CMP-2026-011",
+    "_id": "CMP-2026-011",
+    "title": "Hello.",
+    "description": "Hello.",
+    "category": "Road Damage",
+    "department": "Roads & Infrastructure Department",
+    "departmentCode": "DEPT_ROAD",
+    "urgency": "High Priority",
+    "status": "New",
+    "source": "call",
+    "citizenPhone": "+919876543210",
+    "confidenceScore": 92,
+    "isAutoClassified": true,
+    "slaHoursTotal": 48,
+    "slaHoursRemaining": 48,
+    "impactScore": 93,
+    "isDuplicate": false,
+    "blockchainHash": "884ea5803cf1eb5aa4a0ed1eb83bcb0b3ebc2fdf51b330b3690c90fee343b151",
+    "language": "en",
+    "xaiData": {
+      "confidence": 92,
+      "reasoning": [
+        "Civic anomaly classified by municipal rule engine",
+        "Assigned to Central Redressal Taskforce"
+      ],
+      "rulesApplied": [
+        "Call Simulation Protocol"
+      ],
+      "similarCases": [
+        "CMP-2025-8891"
+      ]
+    },
+    "createdAt": "2026-08-15T17:57:28.546Z"
+  },
+  {
+    "complaintId": "CMP-2026-010",
+    "_id": "CMP-2026-010",
+    "title": "Huge pothole on Main Road near ABC School causing bike accid...",
+    "description": "Huge pothole on Main Road near ABC School causing bike accidents daily",
+    "category": "Road Damage",
+    "department": "Roads & Infrastructure Department",
+    "departmentCode": "DEPT_ROAD",
+    "urgency": "High Priority",
+    "status": "New",
+    "source": "sms",
+    "citizenPhone": "+919876543210",
+    "confidenceScore": 96,
+    "isAutoClassified": true,
+    "slaHoursTotal": 48,
+    "slaHoursRemaining": 48,
+    "impactScore": 86,
+    "isDuplicate": false,
+    "blockchainHash": "269eefb89e5be21a43699613c2f6603e8ac800b8659b566654195cc37d038ecf",
+    "language": "en",
+    "xaiData": {
+      "confidence": 96,
+      "reasoning": [
+        "Road hazard and crater keywords detected",
+        "Mapped to Nagpur Municipal Corporation Zone 12 Road Dept"
+      ],
+      "rulesApplied": [
+        "SMS Simulation Protocol"
+      ],
+      "similarCases": [
+        "CMP-2025-8891"
+      ]
+    },
+    "createdAt": "2026-08-15T17:47:56.576Z"
+  },
+  {
+    "complaintId": "CMP-2026-009",
+    "_id": "CMP-2026-009",
+    "title": "Streetlights on Ring Road have been off for a week causing a...",
+    "description": "Streetlights on Ring Road have been off for a week causing accidents",
+    "category": "Road Damage",
+    "department": "Roads & Infrastructure Department",
+    "departmentCode": "DEPT_ROAD",
+    "urgency": "High Priority",
+    "status": "New",
+    "source": "call",
+    "citizenPhone": "+919876543210",
+    "confidenceScore": 96,
+    "isAutoClassified": true,
+    "slaHoursTotal": 48,
+    "slaHoursRemaining": 48,
+    "impactScore": 94,
+    "isDuplicate": false,
+    "blockchainHash": "276a027836ee9ed92a09fb2108b83e8dda596db7c210c41e6208a9c7291155b6",
+    "language": "en",
+    "xaiData": {
+      "confidence": 96,
+      "reasoning": [
+        "Road hazard and crater keywords detected",
+        "Mapped to Nagpur Municipal Corporation Zone 12 Road Dept"
+      ],
+      "rulesApplied": [
+        "Call Simulation Protocol"
+      ],
+      "similarCases": [
+        "CMP-2025-8891"
+      ]
+    },
+    "createdAt": "2026-08-15T17:25:20.265Z"
+  },
+  {
+    "complaintId": "CMP-2026-008",
+    "_id": "CMP-2026-008",
+    "title": "Huge water pipe leak in Ward 12 near medical square",
+    "description": "Huge water pipe leak in Ward 12 near medical square",
+    "category": "Water Supply",
+    "department": "Water Supply & Drainage Dept",
+    "departmentCode": "DEPT_WATER",
+    "urgency": "Critical Priority",
+    "status": "New",
+    "source": "sms",
+    "citizenPhone": "+919876543210",
+    "confidenceScore": 95,
+    "isAutoClassified": true,
+    "slaHoursTotal": 48,
+    "slaHoursRemaining": 48,
+    "impactScore": 91,
+    "isDuplicate": false,
+    "blockchainHash": "9e58b70ae7217ac3046b7a1b8c9181d1cf7397d5b9a4c03fb8c94642c729cb74",
+    "language": "en",
+    "xaiData": {
+      "confidence": 95,
+      "reasoning": [
+        "Hydraulic pipeline and drainage leakage detected",
+        "Priority escalation for potential drinking water contamination"
+      ],
+      "rulesApplied": [
+        "SMS Simulation Protocol"
+      ],
+      "similarCases": [
+        "CMP-2025-8891"
+      ]
+    },
+    "createdAt": "2026-08-15T17:24:28.270Z"
+  },
+  {
+    "complaintId": "CMP-2026-382",
+    "title": "Municipal Grievance Issue",
+    "description": "Grievance ticket under officer resolution",
+    "category": "Road Damage",
+    "urgency": "High Priority",
+    "status": "In Progress",
+    "createdAt": "2026-08-08T00:35:01.618Z"
+  },
+  {
+    "complaintId": "CMP-2026-006",
+    "title": "Water pipeline burst near Rajiv Gandhi Park",
+    "description": "Huge water pressure leakage flooding main road",
+    "category": "Water Supply",
+    "urgency": "High Priority",
+    "status": "Verified & Resolved",
+    "department": "DEPT_ROAD",
+    "confidenceScore": 94,
+    "slaHoursTotal": 48,
+    "slaHoursRemaining": 48,
+    "impactScore": 93,
+    "isDuplicate": false,
+    "blockchainHash": "b2c1d6d06195893885fe52ce86025e13a1deac223d187181c0c2c5daf202fb00",
+    "xaiExplanation": {
+      "confidence": 95,
+      "reasoning": [
+        "Category keywords matched in Water Supply",
+        "Mapped to Civic Jurisdiction"
+      ],
+      "rulesApplied": [
+        "School & Hospital Proximity Priority Rule"
+      ],
+      "similarCases": [
+        "CMP-2025-8891",
+        "CMP-2025-9102"
+      ]
+    },
+    "createdAt": "2026-08-08T00:25:18.248Z",
+    "resolutionProof": "https://images.unsplash.com/photo-1542013936693-884638332954?w=600&auto=format&fit=crop&q=80",
+    "resolutionNotes": "Mainline joint replaced, pressure restored to 4.2 bar."
+  },
+  {
+    "complaintId": "CMP-2026-005",
+    "title": "Severe road pothole near ABC School in Laxmi ...Pothole near ABC School",
+    "description": "Severe road pothole near ABC School in Laxmi Nagar causing traffic accidents.",
+    "category": "Water Supply",
+    "urgency": "High",
+    "status": "New",
+    "department": "DEPT_ROAD",
+    "confidenceScore": 96,
+    "slaHoursTotal": 48,
+    "slaHoursRemaining": 48,
+    "impactScore": 93,
+    "isDuplicate": false,
+    "blockchainHash": "933704102b783180e3106c87ba49a62cc495aa6f3f4c8286ee010db4ab81a829",
+    "xaiExplanation": {
+      "confidence": 95,
+      "reasoning": [
+        "Category keywords matched in Water Supply",
+        "Mapped to Civic Jurisdiction"
+      ],
+      "rulesApplied": [
+        "School & Hospital Proximity Priority Rule"
+      ],
+      "similarCases": [
+        "CMP-2025-8891",
+        "CMP-2025-9102"
+      ]
+    },
+    "createdAt": "2026-08-07T23:24:06.992Z"
+  },
+  {
+    "complaintId": "CMP-2026-004",
+    "title": "Broken pipeline near Central Market",
+    "description": "Water gushing out of pipe for 2 days. Phone: [REDACTED_PHONE]",
+    "category": "Water Supply",
+    "urgency": "High",
+    "status": "New",
+    "department": "DEPT_ROAD",
+    "confidenceScore": 95,
+    "slaHoursTotal": 48,
+    "slaHoursRemaining": 48,
+    "impactScore": 92,
+    "isDuplicate": false,
+    "blockchainHash": "054d3ce7fe530088f41e6d31bfb79da20f8cf3eec68366e03bc1887584d47ac3",
+    "xaiExplanation": {
+      "confidence": 95,
+      "reasoning": [
+        "Category keywords matched in Water Supply",
+        "Mapped to Dharampeth Zone Jurisdiction"
+      ],
+      "rulesApplied": [
+        "School & Hospital Proximity Priority Rule"
+      ],
+      "similarCases": [
+        "CMP-2025-8891",
+        "CMP-2025-9102"
+      ]
+    },
+    "createdAt": "2026-08-07T08:14:26.042Z"
+  },
+  {
+    "complaintId": "CMP-2026-001",
+    "title": "Severe road pothole near ABC School",
+    "category": "Road Damage",
+    "urgency": "High",
+    "status": "In Progress",
+    "confidenceScore": 96
+  },
+  {
+    "complaintId": "CMP-2026-002",
+    "title": "Major water pipe leakage",
+    "category": "Water Supply",
+    "urgency": "Critical",
+    "status": "Assigned",
+    "confidenceScore": 94
+  },
+  {
+    "complaintId": "CMP-2026-003",
+    "title": "Uncollected garbage near park",
+    "category": "Sanitation",
+    "urgency": "Medium",
+    "status": "New",
+    "confidenceScore": 91
+  }
+]
